@@ -2,8 +2,8 @@
     <table width="100%" cellpadding="10" cellspacing="0" style="font-family: Arial, sans-serif; border-collapse: collapse;">
         <tr>
             <td colspan="2" style="padding-bottom: 20px;">
-                <h1 style="margin: 0;">Bonito Flakes</h1>
-                <p style="font-weight: lighter; margin: 0;">Target: `BF.010.001`</p>
+                <h1 style="margin: 0;">Kiwi Soda</h1>
+                <p style="font-weight: lighter; margin: 0;">Target: `KS.010.001`</p>
             </td>
         </tr>
         <tr>
