@@ -31,7 +31,7 @@
                         <li style="padding-left: 15px"> <a href="docs/project-manager/timeline.md"> Timeline Monitor (FR 7.0) </a></li>
                         <li style="padding-left: 15px"> <a href="docs/project-manager/budget-tracker.md"> Budget Editor & Tracker (FR 8.0/8.1) </a></li>
                         <li style="padding-left: 15px"><a href="docs/project-manager/document-hub.md"> Document Hub (FR 9.0) </a></li>
-                        <li style="padding-left: 15px"><a href="docs/project-manager/progress-charts.md"> Progress Charts (FR 10.0) </a></li>
+                        <li style="padding-left: 15px"><a href="docs/project-manager/project-charts.md"> Progress Charts (FR 10.0) </a></li>
                         <li style="padding-left: 15px"> <a href="docs/project-manager/deadline-alerts.md"> Deadline Alerts (FR 11.0) </a></li>
                     </ul>
                     <p><strong>4. Admin & System Control</strong></p>
