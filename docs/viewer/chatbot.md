@@ -47,7 +47,7 @@
                     <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">FAQ Chatbot</a>
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/project-updates-hub.png">
+                    <img src="../../assets/chatbot.png">
                 </div>
                 <h2 style="margin-top: 0;">FAQ Chatbot (FR 4.1)</h2>
                 <p>The FAQ Support feature provides users with access to frequently asked questions and
