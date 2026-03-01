@@ -56,6 +56,12 @@
                             <td style="padding: 8px;"> Updated Site Map to align with FR/UR Mapping and Use Case Diagram</td>
                             <td style="padding: 8px;"> Laguna, Marylle B. <br> Project Manager </td>
                         </tr>
+                        <tr>
+                            <td style="padding: 8px;"> 2026-02-27</td>
+                            <td style="padding: 8px;"> v1.1.0</td>
+                            <td style="padding: 8px;"> Added authentication system with server-side RBAC, Supabase integration, architectural refactoring, and performance enhancements.</td>
+                            <td style="padding: 8px;"> Laguna, Marylle B. <br> Project Manager </td>
+                        </tr>
                     </table>
                 </div>
             </td>
