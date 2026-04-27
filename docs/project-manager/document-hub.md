@@ -49,10 +49,10 @@
                     <a href="../project-manager/charts.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Document Hub</a>
                 </div>   
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/documents-hub.png">          
+                    <img src="../../assets/ontrack_DocumentHub.png">          
                 </div>
                 <h2 style="margin-top: 0;">Document Hub (FR 9.0)</h2>
-                <p>The Document Hub module provides a centralized and secure repository for storing, organizing, and accessing project-related files within VSU SSC projects. It enables authorized users to upload, view, and manage documents to ensure proper record‑keeping and easy retrieval of important project materials.<br>In its initial implementation, the module will support (1)file upload and storage per project, (2)organized document listing with timestamps and file details, and (3)role‑based access control for viewing and managing documents. These features ensure document security, accessibility, and reliable project documentation.</p>   
+                <p>The Document Hub module provides a centralized and secure repository for storing, organizing, and accessing project-related files within VSU SSC projects. It enables authorized users to upload, view, and manage documents to ensure proper record‑keeping and easy retrieval of important project materials.<br>In its initial implementation, the module will support (1) file upload and storage per project, (2) organized document listing with timestamps and file details, and (3) role‑based access control for viewing and managing documents. These features ensure document security, accessibility, and reliable project documentation.</p>   
                 <h3>Use Case Scenario</h3>
                 <table border="1" width="100%" cellpadding="8" cellspacing="0" style="border-collapse: collapse; font-size: 0.9em; border: 1px solid #ddd;">
                     <tr>
