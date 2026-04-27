@@ -47,7 +47,7 @@
                     <a href="docs/auth/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Log in</a>
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/google-login.png">
+                    <img src="../../assets/ontrack_Login.png">
                 </div>
                 <h2 style="margin-top: 0;">Account Creation (FR 1.0)</h2>
                 <p>The Google Login feature enables users to securely access the system using their VSU Google account.
