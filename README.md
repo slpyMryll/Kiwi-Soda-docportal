@@ -1,3 +1,7 @@
+```
+
+```
+
 <div>
     <table width="100%" cellpadding="10" cellspacing="0" style="font-family: Arial, sans-serif; border-collapse: collapse;">
         <tr>
@@ -9,7 +13,7 @@
         <tr>
              <td width="25%" valign="top" style="border: 1px solid #e0e0e0; border-right: none;">
                 <h2 style="margin-top: 0;">Site Map</h2>   
-                <a href="/docs/viewer/project-homepage.md">Homepage</a>                                         
+                <a href="/docs/viewer/project-homepage.md">Homepage</a>                                       
                 <p><strong>1. Authentication & Identity</strong></p>
                 <ul style="list-style-type: none; padding-left: 0; font-size: 0.9em;">
                     <li style="padding-left: 15px"> <a href="docs/auth/google-login.md"> Login with Google (FR 1.0) </a></li>
@@ -61,6 +65,42 @@
                             <td style="padding: 8px;"> v1.1.0</td>
                             <td style="padding: 8px;"> Added authentication system with server-side RBAC, Supabase integration, architectural refactoring, and performance enhancements.</td>
                             <td style="padding: 8px;"> Laguna, Marylle B. <br> Project Manager </td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 8px;">2026-03-08</td>
+                            <td style="padding: 8px;">v1.2.0</td>
+                            <td style="padding: 8px;">Added RBAC dashboards, dynamic navigation, and guest-aware landing page with routing and performance improvements.</td>
+                            <td style="padding: 8px;">Laguna, Marylle B.<br>Project Manager</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 8px;">2026-03-15</td>
+                            <td style="padding: 8px;">v1.3.0</td>
+                            <td style="padding: 8px;">Added public project feeds and improved project manager workflows.</td>
+                            <td style="padding: 8px;">Laguna, Marylle B.<br>Project Manager</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 8px;">2026-04-06</td>
+                            <td style="padding: 8px;">v1.4.0</td>
+                            <td style="padding: 8px;">Added real-time dashboard, task management, budget tracking, and notification system.</td>
+                            <td style="padding: 8px;">Laguna, Marylle B.<br>Project Manager</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 8px;">2026-04-13</td>
+                            <td style="padding: 8px;">v1.5.0</td>
+                            <td style="padding: 8px;">Added full project lifecycle system, admin tools, performance improvements, and security updates.</td>
+                            <td style="padding: 8px;">Laguna, Marylle B.<br>Project Manager</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 8px;">2026-04-19</td>
+                            <td style="padding: 8px;">v1.6.0</td>
+                            <td style="padding: 8px;">Added real-time comments, chatbot integration, notifications, and UI/UX improvements.</td>
+                            <td style="padding: 8px;">Laguna, Marylle B.<br>Project Manager</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 8px;">2026-04-26</td>
+                            <td style="padding: 8px;">v1.7.0</td>
+                            <td style="padding: 8px;">Added unified notifications, real-time updates, improved authentication, and onboarding enhancements.</td>
+                            <td style="padding: 8px;">Laguna, Marylle B.<br>Project Manager</td>
                         </tr>
                     </table>
                 </div>
