@@ -46,16 +46,15 @@
                     <a href="docs/project-manager/" style=" text-decoration: none;">Projects</a> &gt; 
                     <a href="docs/project-manager/budget.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Budget Tracker</a>
                 </div>      
-                <h2 style="margin-top: 0;">Budget Editor & Tracker (FR 8.0)</h2>
-                <p>The Budget Tracker enables PMs to manage financial allocations. It tracks total project budgets and individual expenses including descriptions, amounts, and categories, with a history log for every edit made.</p>
-                <h3 style="margin-top: 0;">Budget Editor and Tracker</h3>
                  <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
                     <img src="../../assets/ontrack_budgetTrack.png">
                 </div>
-                <h3 style="margin-top: 0;">Budget Tracker (Viewer)</h3>
+                <h3 style="margin-top: 0;">(Viewer)</h3>
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
                     <img src="../../assets/ontrack_budgetTrackViewer.png">
                 </div>
+                <h2 style="margin-top: 0;">Budget Editor & Tracker (FR 8.0)</h2>
+                <p>The Budget Tracker enables PMs to manage financial allocations. It tracks total project budgets and individual expenses including descriptions, amounts, and categories, with a history log for every edit made.</p>
                 <p>The Budget updates will then be reflected in the viewer role to track adjustments of the the budget in real-time. The timeline of updates provides a clear log of all changes, ensuring transparency on the current financial status of a certain project. This also shows who updated the budget as well as the time it was updated. </p>
                 <h3>Use Case Scenario</h3>
                 <table border="1" width="100%" cellpadding="8" cellspacing="0" style="border-collapse: collapse; font-size: 0.9em; border: 1px solid #ddd;">
