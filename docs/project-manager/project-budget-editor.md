@@ -49,7 +49,7 @@
                     <a href="../project-manager/charts.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Project Budget Editor</a>
                 </div>   
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/budget-editor.png">          
+                    <img src="../../assets/ontrack_budgetEditor.png">          
                 </div>
                 <h2 style="margin-top: 0;">Project Budget Editor (FR 8.0)</h2>
                 <p>The Project Budget Editor module enables authorized users to create, update, and manage financial allocations and expenditures for VSU SSC projects. It records budget amounts, expense entries, and modification history to ensure transparency, accuracy, and proper financial monitoring throughout the project lifecycle.<br>In its initial implementation, the module will support (1)budget allocation and expense entry, (2)editing and updating of financial records with timestamps, and (3)automatic tracking of total budget versus actual spending. These features help maintain financial accountability and support informed decision‑making for project management.</h3>
