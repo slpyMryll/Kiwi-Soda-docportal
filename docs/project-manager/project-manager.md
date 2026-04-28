@@ -49,7 +49,7 @@
                     <a href="../project-manager/charts.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Project Manager</a>
                 </div>   
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/project-management.png">          
+                    <img src="../../assets/ontrack_projectManagement.png">          
                 </div>
                 <h2 style="margin-top: 0;">Project Manager (FR 6.0)</h2>
                 <p>The Project Manager module enables authorized VSU SSC officers to create, organize, and oversee project activities within the system. It provides tools for managing timelines, assigning tasks, monitoring progress, handling budgets, and maintaining project documentation to ensure effective project execution.<br>In its initial implementation, the module will support (1)project creation and editing, (2)task assignment and deadline management, and (3)progress and budget monitoring. These capabilities allow Project Managers to coordinate project operations efficiently and ensure timely completion of planned activities.</h3>
