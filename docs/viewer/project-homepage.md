@@ -47,10 +47,10 @@
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
                     <h3>Homepage (unauthorized)</h3>
-                    <img src="../../assets/unauthorized-homepage.png">
+                    <img src="../../assets/ontrack_homepageUnauthorized.png">
                     <br>
                     <h3>Homepage (authorized)</h3>
-                    <img src="../../assets/authorized-homepage.png">
+                    <img src="../../assets/ontrack_homepageAuthorized.png">
                 </div>
                 <h2 style="margin-top: 0;">Homepage</h2>
                 <p>The Project Homepage serves as the primary landing environment for the Student Viewer as well as to different roles that are not yet registered into the site. Its core purpose is to provide a high-level overview of the University Supreme Student Council’s (USSC) ongoing initiatives while acting as a navigational gateway to more granular data. This comes in two ways, for guest users as well as for registered viewer users.</p>
