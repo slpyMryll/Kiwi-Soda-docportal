@@ -48,7 +48,7 @@
                     <a href="../project-manager/charts.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Task Assignment</a>
                 </div>   
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/task-assigns.png">          
+                    <img src="../../assets/ontrack_taskAssigns.png">          
                 </div>
                 <h2 style="margin-top: 0;">Task Assignment (FR 6.1)</h2>
                 <p>The Task Assignment module allows Project Managers to create, distribute, and manage project-related tasks among VSU SSC members to ensure organized execution of project activities. It records task details such as title, description, assigned member, deadline, and completion status to maintain accountability and clear responsibility tracking.<br>In its initial implementation, the module will support (1)manual task creation and assignment to specific members, (2)deadline setting with progress status indicators, and (3)task completion updates by assigned users. These features help Project Managers monitor workload distribution, track task progress in real time, and ensure timely completion of project deliverables.</p>   
