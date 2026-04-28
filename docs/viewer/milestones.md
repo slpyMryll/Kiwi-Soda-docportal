@@ -47,7 +47,7 @@
                     <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Milestone Tracker</a>
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/milestones.png">
+                    <img src="../../assets/ontrack_milestone.png">
                 </div>
                 <h2 style="margin-top: 0;">Milestone Tracker (FR 2.1)</h2>
                 <p>The Milestone Tracker provides a visual timeline and progress monitoring tool for projects.
