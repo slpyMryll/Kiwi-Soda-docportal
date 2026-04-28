@@ -47,7 +47,7 @@
                     <a href="docs/project-manager/charts.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Alerts</a>
                 </div>          
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/deadline-alerts.png">
+                    <img src="../../assets/ontrack_deadlineAlert.png">
                 </div>
                 <h2 style="margin-top: 0;">Deadline Alerts (FR 11.0)</h2>
                 <p>Deadline Alerts provide automated notifications via the notification bell icon. It specifically targets Project Managers to ensure they are aware of upcoming and overdue task deadlines within their projects.</p>
