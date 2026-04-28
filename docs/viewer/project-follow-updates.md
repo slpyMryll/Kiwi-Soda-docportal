@@ -47,7 +47,7 @@
                     <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Follow Project Updates</a>
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/project-follow-updates.png">
+                    <img src="../../assets/ontrack_followUpdate.png">
                 </div>
                 <h2 style="margin-top: 0;">Follow Project Updates (FR 5.0)</h2>
                 <p>The Follow Project Updates feature allows users to subscribe to specific projects of their choice
