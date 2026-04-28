@@ -47,8 +47,7 @@
                     <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Project Viewer</a>
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/project-view-1.png">
-                    <img src="../../assets/project-view-2.png">
+                    <img src="../../assets/ontrack_projectViewer.png">
                 </div>
                 <h2 style="margin-top: 0;">Project Viewer (FR 2.0)</h2>
                 <p>The Project Viewer module allows students and authorized users to access and monitor VSU SSC projects through a centralized and user‑friendly interface. It displays project details such as descriptions, milestones, timelines, progress status, and related updates to promote transparency and awareness among the student body.</p>
