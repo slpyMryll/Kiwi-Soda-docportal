@@ -47,7 +47,7 @@
                     <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Updates Hub</a>
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/project-updates-hub.png">
+                    <img src="../../assets/ontrack_projectUpdates.png">
                 </div>
                 <h2 style="margin-top: 0;">Project Updates Hub (FR 3.0)</h2>
                 <p>The Updates Hub provides a personalized feed for viewers. It displays real-time progress, banner visuals, and status tags for all projects the user is currently following, ensuring they never miss a milestone.</p>
