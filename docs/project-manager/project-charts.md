@@ -48,9 +48,9 @@
                 </div>         
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
                     <h3>Default (No Chart Selected)</h3>
-                    <img src="../../assets/no-charts-display.png">
+                    <img src="../../assets/ontrack_progressChartDefault.png">
                     <h3>Charts Selected</h3>
-                    <img src="../../assets/displayed-progress-charts.png">                 
+                    <img src="../../assets/ontrack_progressChart.png">                 
                 </div>
                 <h2 style="margin-top: 0;">Progress Charts (FR 9.0)</h2>
                 <p>The Progress Charts module provides real-time analytics for VSU SSC projects. It translates task data and budget spending into interactive charts to help the PM role monitor their progress visually.<br>In its initial implementation, only two charts will be displayed, the "Team Performance" and "Budget vs Spending" charts. The "Team Performance" chart displays a bar chart with two values for each member. These values are (1)No. of tasks completed (2)No. of actual assigned tasks. On the other hand, the "Budget vs Spending" chart basically displays a line chart comparing budget allocated and the actual spent.</p>   
