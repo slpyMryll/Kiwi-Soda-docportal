@@ -47,7 +47,7 @@
                     <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Subscription Notifier</a>
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/subscription-notifier.png">
+                    <img src="../../assets/ontrack_subsriptionNotifier.png">
                 </div>
                 <h2 style="margin-top: 0;">Subsciption Notifier (FR 5.1)</h2>
                 <p>The Subscription Notifier informs users about updates, announcements, and changes related to projects they follow. It ensures that users receive timely notifications whenever new information becomes available.
