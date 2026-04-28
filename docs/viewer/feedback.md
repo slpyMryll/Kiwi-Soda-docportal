@@ -47,7 +47,7 @@
                     <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Submit Feedback/Comments</a>
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
-                    <img src="../../assets/feedback.png">
+                    <img src="../../assets/ontrack_feedback.png">
                 </div>
                 <h2 style="margin-top: 0;">Feedback Submitter (FR 4.0)</h2>
                 <p>The Feedback Submitter allows users to provide comments, questions, and suggestions
