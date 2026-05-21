@@ -44,7 +44,7 @@
             <td valign="top" style="border: 1px solid #e0e0e0; padding: 20px;">
                 <div style="margin-bottom: 15px; font-size: 0.85em; color: #666;">
                     <a href="docs/viewer/" style=" text-decoration: none;">Viewer Hub</a> &gt; 
-                    <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Follow Project Updates</a>
+                    <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Real-Time Dashboard</a>
                 </div>  
                 <h3 style="text-align: left;">Viewer Dashboard (unauthorized)</h3>       
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
@@ -53,10 +53,11 @@
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
                     <img src="../../assets/ontrack_dashboard auth.png">
                 </div>
-                <h2 style="margin-top: 0; text-align: left">Follow Project Updates (FR 5.0)</h2>
-                <p>The Follow Project Updates feature allows users to subscribe to specific projects of their choice
-                to receive updates on progress, announcements, and milestone changes.
-                It enables users to stay informed about project developments relevant to their interests.
+                <h2 style="margin-top: 0; text-align: left">Real-Time Dashboard (FR 2.0)</h2>
+                <p>The Viewer Dashboard provides students and guest users with a centralized overview of ongoing VSU USSC projects and activities. It displays summarized project progress, recent updates milestone statuses, and important announcements in a simple and accessible interface.
+                </p>
+                <p style="text-align: left;">
+                The dashboard is designed to improve transparency by allowing students to monitor project developments without requiring administrative access or complex navigation.
                 </p>
                 <h3 style="text-align: left;">Use Case Scenario</h3>
                 <table border="1" width="100%" cellpadding="8" cellspacing="0" style="border-collapse: collapse; font-size: 0.9em; border: 1px solid #ddd;">
