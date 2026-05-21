@@ -30,9 +30,9 @@
                 </ul>
                 <p><strong>3. Officer Management Portal</strong></p>
                     <ul style="list-style-type: none; padding-left: 0; font-size: 0.9em;">
-                        <li style="padding-left: 15px"> <a href="docs/project-manager/manage-projects.md"> Project Manager (FR 6.0) </a></li>
-                        <li style="padding-left: 15px"> <a href="docs/project-manager/tasks.md"> Task Assignment (FR 6.1) </a></li>
-                        <li style="padding-left: 15px"> <a href="docs/project-manager/timeline.md"> Timeline Monitor (FR 7.0) </a></li>
+                        <li style="padding-left: 15px"> <a href="docs/project-manager/project-manager.md"> Project Manager (FR 6.0) </a></li>
+                        <li style="padding-left: 15px"> <a href="docs/project-manager/task-assignment.md"> Task Assignment (FR 6.1) </a></li>
+                        <li style="padding-left: 15px"> <a href="docs/project-manager/timeline-monitor.md"> Timeline Monitor (FR 7.0) </a></li>
                         <li style="padding-left: 15px"> <a href="docs/project-manager/budget-tracker.md"> Budget Editor & Tracker (FR 8.0/8.1) </a></li>
                         <li style="padding-left: 15px"><a href="docs/project-manager/document-hub.md"> Document Hub (FR 9.0) </a></li>
                         <li style="padding-left: 15px"><a href="docs/project-manager/project-charts.md"> Progress Charts (FR 10.0) </a></li>
