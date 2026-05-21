@@ -43,8 +43,8 @@
             </td>
             <td valign="top" style="border: 1px solid #e0e0e0; padding: 20px;">
                 <div style="margin-bottom: 15px; font-size: 0.85em; color: #666;">
-                    <a href="docs/auth/" style=" text-decoration: none;">Authentication</a> &gt; 
-                    <a href="docs/auth/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Log in</a>
+                    <a href="../auth/" style=" text-decoration: none;">Authentication</a> &gt; 
+                    <a href="../auth/google-login.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Log in</a>
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
                     <img src="../../assets/ontrack_Login.png">
