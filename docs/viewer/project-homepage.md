@@ -43,7 +43,7 @@
             </td>
             <td valign="top" style="border: 1px solid #e0e0e0; padding: 20px;">
                 <div style="margin-bottom: 15px; font-size: 0.85em; color: #666;">
-                    <a href="/docs/viewer/project-homepage.md" style=" text-decoration: none;">Homepage</a>; 
+                    <a href="../viewer/project-homepage.md" style=" text-decoration: none;">Homepage</a>; 
                 </div>           
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
                     <h3>Homepage (unauthorized)</h3>

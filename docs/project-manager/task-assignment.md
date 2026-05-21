@@ -45,7 +45,7 @@
             <td valign="top" style="border: 1px solid #e0e0e0; padding: 20px;">
                 <div style="margin-bottom: 15px; font-size: 0.85em; color: #666;">
                     <a href="../project-manager/" style=" text-decoration: none;">Projects</a> > 
-                    <a href="../project-manager/charts.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Task Assignment</a>
+                    <a href="../project-manager/task-assignment.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Task Assignment</a>
                 </div>   
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
                     <img src="../../assets/ontrack_taskAssigns.png">          

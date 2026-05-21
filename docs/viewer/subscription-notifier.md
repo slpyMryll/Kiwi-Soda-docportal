@@ -43,8 +43,8 @@
             </td>
             <td valign="top" style="border: 1px solid #e0e0e0; padding: 20px;">
                 <div style="margin-bottom: 15px; font-size: 0.85em; color: #666;">
-                    <a href="docs/viewer/" style=" text-decoration: none;">Viewer Hub</a> > 
-                    <a href="docs/viewer/updates.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Subscription Notifier</a>
+                    <a href="../viewer/" style=" text-decoration: none;">Viewer Hub</a> > 
+                    <a href="../viewer/subscription-notifier.md" style="color: #ac9e9e; font-weight: bold; text-decoration: none;">Subscription Notifier</a>
                 </div>         
                 <div style="margin: 20px 0; text-align: center; border: 1px dashed #ccc; padding: 15px;">
                     <img src="../../assets/ontrack_subsriptionNotifier.png">
